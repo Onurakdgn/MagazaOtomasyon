@@ -1,3 +1,3 @@
 # C# ile MagazaOtomasyon
 
-C# ile Yapılmış MaĞaza Otomasyon Projesidir , Projeyi Kullanmak İçin Server İsmini Değiştirmeniz ve Size Vemiş Olduğum Veritabanını Eklemeniz Yeterlidir .
+C# ile Yapılmış MaĞaza Otomasyon Projesidir , Projeyi Kullana bilmek İçin proje içindeki  Server İsmini Değiştirmeniz ve Size Vermiş Olduğum Veritabanını Eklemeniz Yeterlidir .
